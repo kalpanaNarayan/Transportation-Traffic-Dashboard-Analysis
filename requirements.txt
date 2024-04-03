@@ -4,7 +4,6 @@ numpy
 plotly
 plotly.graph_objs 
 folium
-streamlit_folium 
+streamlit-folium 
 datetime 
-plotly.express
-plotly.graph_objects
+plotly-express
