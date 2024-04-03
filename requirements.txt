@@ -2,7 +2,6 @@ streamlit
 pandas
 numpy
 plotly
-plotly.graph_objs 
 folium
 streamlit-folium 
 datetime 
